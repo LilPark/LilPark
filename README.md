@@ -35,7 +35,6 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lilpark&tag=알고리즘)](https://velog.io/@lilpark)
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lilpark)](https://velog.io/@lilpark)
   
 </div>
